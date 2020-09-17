@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Vue.js](http://img.shields.io/badge/-Vue.js-%23141321?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mrmagicalJ&count_private=true&show_icons=true&theme=radical)
 
 <!--
